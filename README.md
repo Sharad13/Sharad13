@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/express-Express-blueviolet"/>
 <img src="https://img.shields.io/badge/Mongodb-mongodb-brightgreen"/>
 </p>
+
 ## :link: Connect with me:
 <span align="left">
   <a href="https://www.linkedin.com/in/sharad-dethe-4b3746215/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sharad13"/></a>
